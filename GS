@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GS - Salud Ocupacional</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin:0; background:#f5f7fa; color:#333;}
+    header {background:#0a3d62; color:white; padding:40px 20px; text-align:center;}
+    section {padding:40px 20px; max-width:1000px; margin:auto;}
+    .card {background:white; padding:25px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); margin-bottom:20px;}
+    h1, h2 {margin-bottom:10px;}
+    .btn {display:inline-block; padding:14px 24px; background:#27ae60; color:white; text-decoration:none; border-radius:8px; margin-top:15px; font-weight:bold;}
+    .highlight {color:#27ae60; font-weight:bold;}
+    footer {text-align:center; padding:20px; font-size:12px; color:#777;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>GS</h1>
+  <p>Especialistas en Salud Ocupacional y Riesgos Laborales</p>
+  <p class="highlight">Protege a tu empresa y cumple con la normativa vigente</p>
+</header>
+
+<section>
+  <div class="card">
+    <h2>¿Qué hacemos?</h2>
+    <p>En <strong>GS</strong> brindamos soluciones en <strong>salud ocupacional y gestión de riesgos laborales</strong>, ayudando a empresas y trabajadores a prevenir incidentes, cumplir con regulaciones y mejorar su entorno laboral.</p>
+  </div>
+
+  <div class="card">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Evaluaciones de riesgos laborales</li>
+      <li>Asesoría en cumplimiento normativo</li>
+      <li>Capacitaciones en seguridad y salud</li>
+      <li>Planes de prevención y control</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>¿Por qué elegirnos?</h2>
+    <ul>
+      <li>Atención rápida y personalizada</li>
+      <li>Reducción de riesgos y sanciones</li>
+      <li>Soluciones adaptadas a tu empresa</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Contrata ahora</h2>
+    <p>Accede a nuestros servicios y protege tu operación desde hoy.</p>
+    <a href="#" class="btn">Solicitar servicio</a>
+  </div>
+
+  <div class="card">
+    <h2>Términos importantes</h2>
+    <p>Al contratar nuestros servicios, el cliente acepta las condiciones establecidas por la empresa. Todo requerimiento debe ser gestionado directamente con GS. Los servicios se brindan bajo condiciones previamente informadas.</p>
+  </div>
+</section>
+
+<footer>
+  <p>GS - Servicios de Salud Ocupacional</p>
+  <p>Contacto: diegooquendogsst@gmail.com | 0993840386</p>
+</footer>
+
+</body>
+</html>
